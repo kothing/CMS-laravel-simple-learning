@@ -68,6 +68,8 @@ Password: xxx
 ```
 You can find it in `database/seeders/DatabaseSeeder.php`
 
+`http://site-domain/dashboard`
+
 ---
 
 ## Clear cache
@@ -78,16 +80,5 @@ php artisan config:cache
 php artisan view:clear
 ```
 
----
-
-## Screenshots
-
-**Homepage**  
-
-http://site-domain/
-
-**Auth - Login Dashboard**  
-
-http://site-domain/dashboard
 
 
