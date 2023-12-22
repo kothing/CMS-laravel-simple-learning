@@ -1,9 +1,8 @@
 # MicroCMS
 A content management system (CMS) in Laravel
 
----
 
-## How to start
+# How to start
 
 **1. Clone From Github**
 ```bash
